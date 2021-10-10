@@ -1,0 +1,9 @@
+{
+	"name": "ADFAC-MYDEV",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d6a129e-ea96-4695-8e1d-bc1da9f2defd",
+		"tenantId": "64750d85-ceaf-4172-9d44-beb1372dd3bd"
+	}
+}
